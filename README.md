@@ -41,7 +41,11 @@ We used a combination of publicly available MRI datasets containing:
 | **No Tumor** | تصاویر MRI سالم |
 
 ---
+#### 🎥 Project Demo
+Watch the full video demonstration here:
+[Click to Watch Video Demo (https://drive.google.com/file/d/1jCsU0wkeh1W4PEZjTOVE3rSjNWdNF8Se/view?usp=drive_link)]
 
+---
 ## 🛠 Installation
 
 ### 1. Clone the Repo
